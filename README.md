@@ -1,4 +1,4 @@
-# PredictionBot - Automated Trading Bot for PancakeSwap & CandleGenie
+# PredictionTool - Automated Trading Tool for PancakeSwap & CandleGenie
 
 A sophisticated TypeScript-based trading bot that automatically places bets on BNB-USD price predictions across PancakeSwap and CandleGenie platforms. The bot uses intelligent strategies to maximize winning probability by analyzing market sentiment and betting patterns.
 
@@ -24,8 +24,7 @@ A sophisticated TypeScript-based trading bot that automatically places bets on B
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mooncitydev/crypto-prediction-bot.git
-   cd PredictionBot-main
+   git clone https://github.com/Novus-Tech-LLC/Crypto-Prediction-Tool.git
    ```
 
 2. **Install dependencies**
@@ -182,7 +181,7 @@ If you encounter any issues or have questions:
 4. Review the contract addresses are correct
 
 **Need Help?** Contact the developer:
-- Telegram: [@moooncity](https://t.me/moooncity)
+- Telegram: [@Novus Tech](https://t.me/novustch)
 
 ---
 
