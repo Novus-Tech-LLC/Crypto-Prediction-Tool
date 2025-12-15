@@ -198,7 +198,7 @@ If you encounter any issues or have questions:
 4. Review the contract addresses are correct
 
 **Need Help?** Contact the developer:
-- Telegram: [@Novus Tech](https://t.me/novustch)
+- Telegram: [Novus Tech](https://t.me/novustch)
 
 ---
 
